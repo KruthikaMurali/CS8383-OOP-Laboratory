@@ -29,7 +29,6 @@ previous= in.nextDouble();
 System.out.print ("\n\t Enter current month reading ");
 current= in.nextDouble();
 } 
-2
 void calc()
 {
 units=current-previous;
